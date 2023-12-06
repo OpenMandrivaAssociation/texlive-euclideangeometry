@@ -1,6 +1,6 @@
 Name:		texlive-euclideangeometry
-Version:	60697
-Release:	2
+Version:	67608
+Release:	1
 Summary:	Draw geometrical constructions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/euclideangeometry
